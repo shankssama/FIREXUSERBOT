@@ -24,11 +24,11 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 ## FIRST TRY THIS TO DEPLOY ON HEROKU  FROM THIS LINK  IF NOT WORKS FOLLOW BELOW STEP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamEviral/FIREX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shankssama/FIREX)
 
 ## Heroku Salesforce Error Solution
 - Make a github Account.
-- Fork the [Repo](https://github.com/Teameviral/FIREX) First.
+- Fork the [Repo](https://github.com/Shankssama/FIREX) First.
 - Then go README.md and replace `Teameviral` to your forked github username.
    
 ### Get API_ID AND API_HASH 
@@ -51,7 +51,7 @@ FROM
    - 900+ Plugins.
    - All in one userbot in Telethon..
    
-## Old Repo is [Here](https://github.com/TeamEviral/Fire-X).
+## Old Repo is [Here](https://github.com/Shankssama/Fire-X).
 
 # SUPPORT 
 
